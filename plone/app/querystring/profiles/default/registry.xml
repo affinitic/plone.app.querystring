@@ -172,7 +172,7 @@
 
     <records interface="plone.app.querystring.interfaces.IQueryOperation"
              prefix="plone.app.querystring.operation.selection.is">
-        <value key="title" i18n:translate="">Is</value>
+        <value key="title" i18n:translate="">Is selected</value>
         <value key="description" i18n:translate="">Tip: you can use * to autocomplete.</value>
         <value key="operation">plone.app.querystring.queryparser._equal</value>
         <value key="widget">MultipleSelectionWidget</value>
